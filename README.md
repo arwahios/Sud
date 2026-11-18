@@ -1,6 +1,6 @@
 # Sud
 
-SudGIP iOS SDK（SPM binaryTarget）私有封装，供 Haya `SudKit` 远程依赖。
+SudGIP iOS SDK（SPM binaryTarget）私有封装。
 
 ## 使用
 
